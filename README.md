@@ -13,5 +13,6 @@ Usage:
       python3 net_recon.py -i <interface> -p     # Passive Scan
       python3 net_recon.py -i <interface> -a     # Active Scan
       python3 net_recon.py --help                # Usage instructions
+
 Example:
       python3 net_recon.py -i eth0 -p
